@@ -2,6 +2,8 @@ name: flutter_zoho_checkout
 description: "A secure Flutter plugin to integrate Zoho Checkout (Payments) using WebView. Supports success/cancel redirect detection."
 homepage: https://github.com/Thinkcove/zohopay-fluttter-checkout.git
 repository: https://github.com/Thinkcove/zohopay-fluttter-checkout.git
+version: 0.0.1
+
 
 environment:
   sdk: ^3.8.1
